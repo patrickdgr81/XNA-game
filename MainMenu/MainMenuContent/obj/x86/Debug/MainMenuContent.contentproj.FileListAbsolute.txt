@@ -1,0 +1,4 @@
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>game.png</Source>
+      <Name>game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\game.xnb</Output>
+      <Time>2012-05-03T18:19:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ocean.jpg</Source>
+      <Name>ocean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\ocean.xnb</Output>
+      <Time>2012-05-03T18:32:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>scores.png</Source>
+      <Name>scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\scores.xnb</Output>
+      <Time>2012-05-03T19:01:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.jpg</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2012-05-03T19:06:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>falling.png</Source>
+      <Name>falling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\falling.xnb</Output>
+      <Time>2012-05-04T13:08:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>jumping.png</Source>
+      <Name>jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\jumping.xnb</Output>
+      <Time>2012-05-04T13:08:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>left.png</Source>
+      <Name>left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\left.xnb</Output>
+      <Time>2012-05-04T13:08:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>platform.png</Source>
+      <Name>platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\platform.xnb</Output>
+      <Time>2012-05-04T13:08:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>right.png</Source>
+      <Name>right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\right.xnb</Output>
+      <Time>2012-05-04T13:08:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2012-05-04T21:06:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2012-05-24T13:01:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>hint.png</Source>
+      <Name>hint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\hint.xnb</Output>
+      <Time>2012-05-24T13:04:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menubar.png</Source>
+      <Name>menubar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menubar.xnb</Output>
+      <Time>2012-05-30T13:36:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Basic.spritefont</Source>
+      <Name>Basic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\Basic.xnb</Output>
+      <Time>2012-05-13T12:24:02-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenuContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-02-03T13:29:32.226835-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-02-03T13:29:32.1176348-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-02-03T13:29:32.0396346-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-02-03T13:29:31.9460345-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-02-03T13:29:31.7900342-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-02-03T13:29:31.3532334-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-03T13:29:31.5872338-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,14 @@
+Content\game.xnb
+Content\ocean.xnb
+Content\scores.xnb
+Content\exit.xnb
+Content\falling.xnb
+Content\jumping.xnb
+Content\left.xnb
+Content\platform.xnb
+Content\right.xnb
+Content\menu.xnb
+Content\arrow.xnb
+Content\hint.xnb
+Content\menubar.xnb
+Content\Basic.xnb

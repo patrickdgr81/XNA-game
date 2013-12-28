@@ -1,0 +1,79 @@
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.exe
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.pdb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\game.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\ocean.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\Basic.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\scores.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\exit.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\game.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\ocean.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\scores.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\exit.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\Basic.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.exe
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.pdb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\falling.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\jumping.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\left.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\platform.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\right.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menu.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\falling.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\jumping.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\left.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\platform.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\right.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menu.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\arrow.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\hint.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\arrow.xnb
+F:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\hint.xnb
+E:\C# Programs\Miscellanous\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menubar.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\game.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\ocean.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\scores.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\exit.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\falling.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\jumping.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\left.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\platform.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\right.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menu.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\arrow.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\hint.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menubar.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\Basic.xnb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.exe
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.pdb
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+F:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\game.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\ocean.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\scores.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\exit.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\falling.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\jumping.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\left.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\platform.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\right.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menu.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\arrow.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\hint.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\menubar.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\Content\Basic.xnb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.exe
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\bin\x86\Debug\MainMenu.pdb
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.exe
+E:\Hunt the Wumpus\MainMenu\MainMenu\MainMenu\obj\x86\Debug\MainMenu.pdb

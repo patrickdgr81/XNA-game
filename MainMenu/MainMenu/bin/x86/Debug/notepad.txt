@@ -1,0 +1,6 @@
+What does Moo say when its hungry?,1. Bow Wow,2. Moo,3. I'm Hungry,4. buu,3,The hippocampus is a mythological creature that dwells in the ocean.
+What is the disease associated with Scuba diving?,1. The Bends,2. Diabetes,3. Leukemia,4. Addison's Disease,1,"The Bends" is a disease associated with Scuba Diving.
+How many tidal extremes (total highs and lows) occur in one day?,1. Two,2. Three,3. Four,4. Six,3,There are four tidal extremes in one day.
+How many different kinds of sharks live today?,1. 100,2. 350,3. 500,4. Over 1000,2,350 types of sharks live today.
+Where do squid live?,1. Deep water,2. Household sinks,3. Shallow lakes,4. Anywhere in the ocean,4,Squid live anywhere in the ocean.
+What should you do when you're going diving?,1. Always dive with a buddy,2. Check gear and tanks,3. Get certified,4. All of the above,4,When diving you should always go with a buddy, check gear and be certified.
